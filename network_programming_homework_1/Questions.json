@@ -1,0 +1,22 @@
+{
+    "1":["what is the answer of 1+1?","2"],
+    "2":["what is the answer of 10*9","90"],
+    "3":["what is the name of our planet?","earth"],
+    "4":["what is the name of the largest star?","sun"],
+    "5":["what is the answer of 3!","6"],
+    "6":["4*4?","16"],
+    "7":["what is the number of months in a year?","12"],
+    "8":["how many days in a year?","356"],
+    "9":["5*5?","25"],
+    "10":["9-2?","7"],
+    "11":["11+2?","13"],
+    "12":["0+1?","1"],
+    "13":["how many moons does the earth have?","1"],
+    "14":["what is the day after sunday?","monday"],
+    "15":["20/2?","10"],
+    "16":["55/5?","11"],
+    "17":["3 is a prime number?","yes"],
+    "18":["can we devide by zero?","no"],
+    "19":["0 celecius is what in fehrenhite?","32"],
+    "20":["7*2?","14"]
+}
